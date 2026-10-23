@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Changed parent theme to Theme.MaterialComponents.DayNight.NoActionBar to support Material components like SwitchMaterial -->
+    <style name="Theme.MobileDev2" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileDev2</string>
+    <string name="theme_setting">Pengaturan Tema</string>
+    <string name="logout">Logout</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="welcome_user">Selamat Datang %1$s</string>
+</resources>
